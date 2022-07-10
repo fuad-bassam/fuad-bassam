@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm fuad a Web Developer 
 
-<img align="lift" width="47%" height="220px" src="https://github.com/fuad-bassam/fuad-bassam/blob/main/jif1.gif"/><img align="lift" width="47%" height="250px" src="https://github.com/fuad-bassam/fuad-bassam/blob/main/jif2.gif"/>
+<img align="lift" width="47%" height="270px" src="https://github.com/fuad-bassam/fuad-bassam/blob/main/jif1.gif"/><img align="lift" width="47%" height="270px" src="https://github.com/fuad-bassam/fuad-bassam/blob/main/jif2.gif"/>
 
 I'm has good interpersonal skills as well as logical problem solving, am an excellent team worker, keen and very willing to develop new skills, and I have good knowledge of android, node js, and dotNet environment.
 
