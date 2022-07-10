@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm fuad
+#### Web Developer 
+![Web Developer ](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-<!--
-**fuad-bassam/fuad-bassam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm has good interpersonal skills as well as logical problem solving, am an excellent team worker, keen and very willing to develop new skills, and I have good knowledge of android, node js, and dotNet environment.
 
-Here are some ideas to get you started:
+Skills: ASP.net Core / JS / HTML-CSS/ Reactjs / Android
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
