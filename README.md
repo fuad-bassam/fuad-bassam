@@ -1,7 +1,10 @@
 ### Hi there 👋, I'm fuad a Web Developer 
 
 <img height="380px" width= 100% src="https://github.com/fuad-bassam/fuad-bassam/blob/main/jif1.gif"/>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg%22%3E<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Competitive+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50%22%3E</a>
+</p>
+<br>
 I'm has good interpersonal skills as well as logical problem solving, am an excellent team worker, keen and very willing to develop new skills, and I have good knowledge of android, node js, and dotNet environment.
 
 
